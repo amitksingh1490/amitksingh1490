@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=amitksingh1490&show_icons=true&locale=en&theme=dracula" alt="amitksingh1490" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amitksingh1490&theme=dracula" alt="amitksingh1490" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=amitksingh1490&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=475)](https://git.io/streak-stats)
 
 <!--
 **amitksingh1490/amitksingh1490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
