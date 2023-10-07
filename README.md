@@ -18,6 +18,7 @@
 
 [![Amit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amitksingh1490&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![An image of @amitksingh1490's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitksingh1490)](https://holopin.io/@amitksingh1490)
 ### 💌 Guestbook:
 I'd love to hear from you! If you've visited my profile and want to share some love, [open an issue in my guestbook repository](https://github.com/amitksingh1490/amitksingh1490) and leave a comment. Don't forget to star it!
 
