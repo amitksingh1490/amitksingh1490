@@ -16,8 +16,18 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=amitksingh1490&theme=radical)
 
 
+### 🧰 Tools & Tech:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" style="margin-right:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" style="margin-right:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" style="margin-right:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right:5px"/>
+</p>
+
+
 ### 💌 Leave a Message:
-Feel the vibes? Want to say hi? [Drop a message here!](https://github.com/amitksingh1490/amitksingh1490/issues) and ⭐ the repo!
+[Sign my guestbook with some functional love! 🖊️](https://github.com/amitksingh1490/amitksingh1490/issues)
+
 
 ### 🔗 Connect:
 [![Twitter Badge](https://img.shields.io/badge/-amitksingh1490-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/amitksingh1490)](https://twitter.com/amitksingh1490)
