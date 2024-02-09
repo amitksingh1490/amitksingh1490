@@ -15,7 +15,6 @@
 ### 🏆 Achievements:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=amitksingh1490&theme=radical)
 
-[![An image of @amitksingh1490's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitksingh1490)](https://holopin.io/@amitksingh1490)
 
 
 ### 🧰 Tools & Tech:
