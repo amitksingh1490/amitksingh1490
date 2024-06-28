@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blueviolet&width=380&lines=Hello%2C+world!+%F0%9F%8C%8E;I'm+Amit+Singh+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+Hello there! I'm Amit, the Head of Growth and Contributor @ [Tailcall Inc.](https://tailcall.run/) Welcome to my GitHub Repository!
 ### 🚀 Coding since 2006. Living the dream since 2013!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amitksingh1490&color=blueviolet&style=flat-square)
