@@ -19,7 +19,7 @@ Hello there! I'm Amit, Contributor @ [Tailcall Inc.](https://tailcall.run/) Welc
 
 ### 🧰 Tools & Tech:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" style="margin-right:5px"/>
+  <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="rust" width="40" height="40" style="margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" style="margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" style="margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right:5px"/>
